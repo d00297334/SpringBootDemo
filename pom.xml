@@ -124,7 +124,7 @@
         <warFile>target\demo.war</warFile> 
         <path>/demo</path> 
         <username>admin</username>
-        <password>Chester111698@</password>
+        <password>admin</password>
         </configuration> 
         </plugin> 
 
